@@ -1,0 +1,26 @@
+.feedback {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-top: 25px;
+}
+
+.feedback_button {
+  width: 150px;
+  height: 35px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 10px;
+}
+
+.feedback_button_good {
+  background-color: #2ecc71;
+}
+.feedback_button_bad {
+  background-color: #e74c3c;
+}
+.feedback_button_neutral {
+  background-color: #f1c40f;
+}

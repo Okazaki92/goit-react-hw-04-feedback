@@ -1,0 +1,17 @@
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 20px 20px 0 0;
+  width: 500px;
+  background-color: rgb(130, 220, 221);
+  padding: 25px 0;
+  border: 2px solid rgb(130, 220, 221);
+  box-shadow: 0.5rem 0.5rem 2rem rgb(0, 0, 0);
+}
+.section-Statistics {
+  background-color: white;
+  border: 2px solid rgb(130, 220, 221);
+  border-radius: 0 0 20px 20px;
+}
